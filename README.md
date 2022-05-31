@@ -8,4 +8,8 @@
 
 If it has to do with modern computing, I probably enjoy doing it.
 
+Creator of https://jpworgen.com/
+
 I own and operate the Reverse Engineering Discord: https://discord.gg/Wq8AJB3
+
+
