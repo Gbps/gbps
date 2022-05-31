@@ -2,7 +2,7 @@
 
 🔸 **Security** -- RE, VR, CTF
 
-🔸 **Web** -- Modern full-stack development, Devops, Sysadmin
+🔸 **Web** -- Modern Full-Stack Development, Devops, Sysadmin
 
 🔸 **Hardware** -- EE, PCBs, FPGAs, Embedded
 
