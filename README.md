@@ -2,7 +2,7 @@
 
 🔸 **Security** -- RE, VR, CTF
 
-🔸 **Web** -- Front/backend, devops
+🔸 **Web** -- Frontend, Backend, Devops, Sysadmin
 
 🔸 **Hardware** -- EE, PCBs, FPGAs, Embedded
 
