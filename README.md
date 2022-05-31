@@ -1,10 +1,10 @@
-**OS Dev** -- kernel, firmware, hypervisors
+🔸 **OS Dev** -- kernel, firmware, hypervisors
 
-**Security** -- RE, VR, CTF
+🔸 **Security** -- RE, VR, CTF
 
-**Web** -- Front/backend, devops
+🔸 **Web** -- Front/backend, devops
 
-**Hardware** -- EE, PCBs, FPGAs, Embedded
+🔸 **Hardware** -- EE, PCBs, FPGAs, Embedded
 
 If it has to do with modern computing, I probably enjoy it.
 
