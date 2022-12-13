@@ -1,6 +1,8 @@
 Hey there, thanks for visiting.
 
-I do a lot of stuff both professionally and for hobby spanning the entire computing stack. Here's some of my interests:
+I do a lot of stuff both professionally and for hobby spanning the entire computing stack. 
+
+Here's some of my interests:
 
 • **OS Dev** -- kernel, firmware, hypervisors
 
