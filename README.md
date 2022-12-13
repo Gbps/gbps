@@ -2,13 +2,13 @@ Hey there, thanks for visiting.
 
 I do a lot of stuff both professionally and for hobby spanning the entire computing stack. Here's some of my interests:
 
-**OS Dev** -- kernel, firmware, hypervisors
+• **OS Dev** -- kernel, firmware, hypervisors
 
-**Security** -- RE, VR, CTF
+• **Security** -- RE, VR, CTF
 
-**Web** -- Modern Full-Stack Development, Devops, Kubernetes, Sysadmin
+• **Web** -- Modern Full-Stack Development, Devops, Kubernetes, Sysadmin
 
-**Hardware** -- EE, PCBs, FPGAs, Embedded
+• **Hardware** -- EE, PCBs, FPGAs, Embedded
 
 I own and operate the Reverse Engineering Discord: https://discord.gg/Wq8AJB3
 
