@@ -16,3 +16,5 @@ I own and operate the Reverse Engineering Discord: https://discord.gg/Wq8AJB3
 
 If you need to get in contact with me, my Discord is: Gbps#4141
 
+I have a blog I never update at: https://ctf.re/
+
