@@ -1,6 +1,6 @@
 Hey there, thanks for visiting.
 
-I do a lot of stuff both professionally and for hobby spanning the entire computing stack. 
+I do a lot of stuff both professionally and hobby spanning the entire computing stack. 
 
 Here's some of my interests:
 
