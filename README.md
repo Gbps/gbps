@@ -4,7 +4,7 @@ I do a lot of stuff both professionally and hobby spanning the entire computing 
 
 Here's some of my interests:
 
-• **OS Dev** -- kernel, firmware, hypervisors
+• **OS Dev** -- kernel, firmware, hypervisors, PCIe
 
 • **Security** -- RE, VR, CTF
 
